@@ -57,6 +57,7 @@ namespace ControladorBBDD
                         comboBox1.Text = comboBox1.Items[0].ToString();
                         comboBox1.Enabled = true;
                         textBox2.Enabled = true;
+                        button3.Enabled = true;
                         label4.Text = comboBox1.Items[0].ToString();
                         MessageBox.Show("Conectado con " + textBox1.Text, "Correcto!");
                     }

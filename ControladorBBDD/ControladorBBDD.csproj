@@ -51,6 +51,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Conexion.cs" />
+    <Compile Include="Funciones.cs" />
     <Compile Include="Gestor%28Alpha%29.cs">
       <SubType>Form</SubType>
     </Compile>
